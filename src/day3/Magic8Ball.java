@@ -37,7 +37,7 @@ public class Magic8Ball {
 	else if(num1==5){
 		JOptionPane.showMessageDialog(null,"Life speeds up on the best of us");
 	}
-	else if(num1==1){
+	else if(num1==6){
 		JOptionPane.showMessageDialog(null,"Illuminati confrimed");
 	}
 	// 7. If the random number is 2
